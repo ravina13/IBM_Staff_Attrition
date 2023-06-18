@@ -1,4 +1,4 @@
-# IBM_Staff_Attrition
+# IBM Staff Attrition
 The predictive model, designed by my team members and me, utilized logistic regression to identify key factors contributing to employee attrition within the company. Our analysis revealed that environmental dissatisfaction, job dissatisfaction, and overtime were significant drivers of employee turnover. Working on this project provided valuable insights for the HR Department, enabling them to develop data-driven retention strategies using information gathered from exit interviews.
 
 Key steps included the following
